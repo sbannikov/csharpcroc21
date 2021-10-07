@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FirstApp": {
+      "commandName": "Project",
+      "commandLineArgs": "this is a sample of arguments of the very program"
+    }
+  }
+}
